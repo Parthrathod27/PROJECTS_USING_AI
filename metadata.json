@@ -1,0 +1,7 @@
+{
+  "name": "BeUpdated",
+  "description": "A real-time news and community alert platform. Stay updated with global news and local alerts from users nearby.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
